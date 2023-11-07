@@ -1,0 +1,29 @@
+{
+  "name": "cpp-login-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jade": "^1.11.0",
+    "sqlite3": "^5.0.2",
+    "uuid4": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsalinas26/cpp-login-menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsalinas26/cpp-login-menu/issues"
+  },
+  "homepage": "https://github.com/fsalinas26/cpp-login-menu#readme"
+}
